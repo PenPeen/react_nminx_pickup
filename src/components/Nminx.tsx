@@ -88,7 +88,7 @@ const Nminx: React.FC = () => {
           {member.name}
         </Text>
         <Text color={textColor}>{`Age: ${member.age}`}</Text>
-        <AspectRatio maxW="400px" ratio={3 / 4}>
+        <AspectRatio ratio={3 / 4}>
           <Image
             src={member.image}
             alt="memberImage"
