@@ -5,7 +5,6 @@ import {
   AspectRatio,
   Box,
   Button,
-  Center,
   Flex,
   IconButton,
   Image,
